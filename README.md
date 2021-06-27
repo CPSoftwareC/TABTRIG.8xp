@@ -1,5 +1,7 @@
-<!-- README.md Versão 1.0 -->
+<!-- README.md Versão 1.1 -->
 <h1>Prgm TABTRIG (<strong><em>Tabela trigonométrica</em></strong>)</h1>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/TABTRIG.8xp/total?style=plastic)
 
 ![degree2_ft](https://user-images.githubusercontent.com/67112321/96938338-0250e900-14c2-11eb-8517-d2251816e846.png)
 
