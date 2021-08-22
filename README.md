@@ -1,50 +1,44 @@
-<!-- README.md Versão 1.1 -->
-<h1>Prgm TABTRIG (<strong><em>Tabela trigonométrica</em></strong>)</h1>
+# Prgm TABTRIG (**_Tabela trigonométrica_**)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/TABTRIG.8xp/total?style=plastic)
 
 ![degree2_ft](https://user-images.githubusercontent.com/67112321/96938338-0250e900-14c2-11eb-8517-d2251816e846.png)
 
-<h3>Biografia</h3>
+### Biografia
 
-<p>Desenvolvido em TI-BASIC. Para auxiliar o estudo da Trigonométria. Programa sobre a <em>tabela trigonométrica</em>, dos <em><strong>senos</em></strong>, <em><strong>cossenos</em></strong> e <em><strong>tangentes</em></strong>. Em <strong>graus</strong> e <strong>radianos</strong>.</p>
+Desenvolvido em TI-BASIC. Para auxiliar o estudo da Trigonométria. Programa sobre a _tabela trigonométrica_, dos **_senos_**, **_cossenos_** e **_tangentes_**. Em **graus** e **radianos**.
 
-<h2>Versão <em><strong>1.0</strong></em></h2>
+## Versão _1.0_
 
-<h3>Compatibilidade</h3>
+### Compatibilidade
 
-<ul>
- <li>TI-84 Plus CE</li>
- <li>TI-84 Plus CE-T</li>
- <li>TI-84 Plus CE-T Python Edition</li>
- <li>TI-84 Plus C Silver Edition</li>
- <li>TI-83 Premium CE</li>
- <li>TI-83 Premium CE Edition Python</li>
-</ul>
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus CE-T Python Edition
+- TI-84 Plus C Silver Edition
+- TI-83 Premium CE
+- TI-83 Premium CE Edition Python
 
-<h3>Como instalar</h3>
+### Como instalar
 
-<p>Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-<ol>
-     <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-     <li>Envia o <em>TABTRIG.8xp</em></li>
-     <li>Escolhe a tua calculadora</li>
-     <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-</ol>
+Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-<p> E agora já tens o <em>TABTRIG</em> na tua calculadora</p>
+1. Plug-in a tua calculadora e abre o TI Connect CE
+2. Envia o _TABTRIG.8xp_
+3. Escolhe a tua calculadora
+4. E clicar no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
-<h3>Como executar</h3>
+E agora já tens o _TABTRIG_ na tua calculadora
 
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>TABTRIG</em></p>
+### Como executar
 
-<ol>
-     <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>4</kbd></li>
-     <li>E selecionar o <em>TABTRIG</em></li>
-     <li>E por ultimo pressionar <kbd>enter</kbd></li>
-</ol>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _TABTRIG_
 
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
+1. <kbd>prgm</kbd>
+2. <kbd>alpha</kbd> + <kbd>4</kbd>
+3. Selecionar o _TABTRIG_
+4. E por ultimo pressionar <kbd>enter</kbd>
 
-<h4><a href="http://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+## Programador: _J.C.P._
+
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
