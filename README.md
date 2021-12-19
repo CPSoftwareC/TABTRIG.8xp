@@ -1,10 +1,10 @@
 # Prgm TABTRIG (**_Tabela trigonométrica_**)
 
-![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/TABTRIG.8xp/total?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/TABTRIG.8xp/total?label=Downloads&style=plastic)
 
 ![degree2_ft](https://user-images.githubusercontent.com/67112321/96938338-0250e900-14c2-11eb-8517-d2251816e846.png)
 
-### Biografia
+### Descrição
 
 Desenvolvido em TI-BASIC. Para auxiliar o estudo da Trigonométria. Programa sobre a _tabela trigonométrica_, dos **_senos_**, **_cossenos_** e **_tangentes_**. Em **graus** e **radianos**.
 
@@ -23,10 +23,10 @@ Desenvolvido em TI-BASIC. Para auxiliar o estudo da Trigonométria. Programa sob
 
 Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-1. Plug-in a tua calculadora e abre o TI Connect CE
+1. Conecta a tua calculadora e abre o TI Connect CE
 2. Envia o _TABTRIG.8xp_
 3. Escolhe a tua calculadora
-4. E clicar no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
+4. E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
 E agora já tens o _TABTRIG_ na tua calculadora
 
@@ -37,7 +37,7 @@ Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas d
 1. <kbd>prgm</kbd>
 2. <kbd>alpha</kbd> + <kbd>4</kbd>
 3. Selecionar o _TABTRIG_
-4. E por ultimo pressionar <kbd>enter</kbd>
+4. E por último pressionar <kbd>enter</kbd>
 
 ## Programador: _J.C.P._
 
